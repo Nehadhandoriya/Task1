@@ -1,0 +1,87 @@
+*body{
+    margin: 0;
+    padding: 0;
+}
+
+.Main-image{
+    width: 470px;
+    height: 470px;
+    border-radius: 70%;
+    position: relative;
+    left: 37%;
+    top:20px
+}
+.head{
+    position: relative;
+    margin-top: 5%;
+    margin-left: -100px;
+    
+}
+.p1{
+    font-size:xx-large ;
+}
+.p2{
+    font-size:x-large ;
+}
+.p3{
+    font-size: large;
+    font-style: italic;
+    color: gray;
+}
+
+
+.head span{
+    color: red;
+}
+
+
+
+.head .icon{
+    position: absolute;
+}
+
+
+
+.head button{
+position: relative;
+margin-left: 40px;
+margin-top: 25px;
+}
+
+.btn1{
+    background-color: red;
+    color: white;
+    border: 2px white;
+    font-size:16px;
+    width: 135px;
+    height: 30px;
+    cursor: pointer;
+    border-radius:10px; 
+    padding:2px;  
+    margin: 5px;
+    
+}
+
+.btn1:hover{
+  background-color:orange;
+  border: 2px solid black;
+}
+
+.btn2{
+    position: relative;
+    left: 200px;
+    background-color: grey;
+    color: white;
+    border: 2px white;
+    font-size:16px;
+    width: 135px;
+    height: 30px;
+    cursor: pointer;
+    border-radius:10px; 
+    padding:2px;  
+    margin: 5px;
+}
+
+.btn2:hover{
+    color: black;
+  }
